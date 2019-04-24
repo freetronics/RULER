@@ -140,8 +140,8 @@
 <sheet>
 <plain>
 <text x="149.86" y="12.7" size="2.54" layer="94">Freetronics Ruler</text>
-<text x="215.9" y="6.858" size="1.778" layer="94">V1.0 (2014-05-11)</text>
-<text x="149.606" y="6.858" size="1.651" layer="94">www.freetronics.com/ruler</text>
+<text x="215.9" y="6.858" size="1.778" layer="94">V1.1 (2017-04-07)</text>
+<text x="149.606" y="6.858" size="1.651" layer="94">www.freetronics.com.au/ruler</text>
 <text x="195.58" y="6.858" size="1.778" layer="94">SKU: RULER</text>
 <frame x1="0" y1="0" x2="248.92" y2="185.42" columns="8" rows="5" layer="94"/>
 <frame x1="147.32" y1="5.08" x2="243.84" y2="17.78" columns="0" rows="0" layer="94" border-left="no" border-top="no" border-right="no" border-bottom="no"/>
